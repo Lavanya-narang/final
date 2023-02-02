@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "Movie-seat-bookingfinal-main",
+		"path": "../.."
+	},
+	{
+		"name": "final project",
+		"path": "../../../final project"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Movie-seat-bookingfinal-main"
+  }
+}
